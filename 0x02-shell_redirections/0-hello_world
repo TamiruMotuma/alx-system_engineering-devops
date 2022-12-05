@@ -1,2 +1,2 @@
-#!/bin/bash/n
-hello world | lpr
+#!/bin/bash
+echo "Hello World\n"
